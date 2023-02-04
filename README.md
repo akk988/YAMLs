@@ -1,4 +1,4 @@
-# Run 2-tier container apps in Kubernetes cluster
+# Run 2-tier container app in Kubernetes cluster
 Create a Kubernetes cluster in Azure
 az aks create \
     --resource-group myResourceGroup \
